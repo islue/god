@@ -134,7 +134,6 @@ Gem::Specification.new do |s|
     test/configs/stop_options/stop_options.god
     test/configs/stress/simple_server.rb
     test/configs/stress/stress.god
-    test/configs/task/logs/.placeholder
     test/configs/task/task.god
     test/configs/test.rb
     test/helper.rb
